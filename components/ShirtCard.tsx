@@ -17,10 +17,12 @@ interface IShirt {
 
 const ShirtCard: React.FC<IShirt> = ({data}) => {
     const {imgUrl, type,  color, price, title} = data;
+
+    
     return (
         <View style={styles.CardWrap}>
             <View style={styles.ShirtWrap}>
-                <Image style={styles.ShirtImg} source={{uri: imgUrl}} resizeMode="cover" />
+                <Image style={styles.ShirtImg} source={require('../assets/images/0002_fashion_image.jpg')} resizeMode="cover" />
             </View>
             <View style={styles.CardBottomWrap}>
                 <Text style={styles.TitleTextStyle}>

@@ -1,7 +1,7 @@
 export const TSHIRT = [
     {
         id: 0,
-        imgUrl: "../assets/images/0001_fashion_image",
+        imgUrl: "../assets/images/0001_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck",
@@ -9,7 +9,7 @@ export const TSHIRT = [
     },
     {
         id: 1,
-        imgUrl: "../assets/images/0002_fashion_image",
+        imgUrl: "../assets/images/0002_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck",
@@ -17,7 +17,7 @@ export const TSHIRT = [
     },
     {
         id: 2,
-        imgUrl: "../assets/images/0003_fashion_image",
+        imgUrl: "../assets/images/0003_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck", 
@@ -25,7 +25,7 @@ export const TSHIRT = [
     },
     {
         id: 3,
-        imgUrl: "../assets/images/0004_fashion_image",
+        imgUrl: "../assets/images/0004_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck", 
@@ -33,7 +33,7 @@ export const TSHIRT = [
     },
     {
         id: 4,
-        imgUrl: "../assets/images/0005_fashion_image",
+        imgUrl: "../assets/images/0005_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck", 
@@ -41,7 +41,7 @@ export const TSHIRT = [
     },
     {
         id: 5,
-        imgUrl: "../assets/images/0006_fashion_image",
+        imgUrl: "../assets/images/0006_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck", 
@@ -49,7 +49,7 @@ export const TSHIRT = [
     },
     {
         id: 6,
-        imgUrl: "../assets/images/0007_fashion_image",
+        imgUrl: "../assets/images/0007_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "V Neck", 
@@ -58,7 +58,7 @@ export const TSHIRT = [
     },
     {
         id: 7,
-        imgUrl: "../assets/images/0008_fashion_image",
+        imgUrl: "../assets/images/0008_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -66,7 +66,7 @@ export const TSHIRT = [
     },
     {
         id: 8,
-        imgUrl: "../assets/images/0009_fashion_image",
+        imgUrl: "../assets/images/0009_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -74,7 +74,7 @@ export const TSHIRT = [
     },
     {
         id: 9,
-        imgUrl: "../assets/images/00010_fashion_image",
+        imgUrl: "../assets/images/00010_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -82,7 +82,7 @@ export const TSHIRT = [
     },
     {
         id: 10,
-        imgUrl: "../assets/images/00011_fashion_image",
+        imgUrl: "../assets/images/00011_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -91,7 +91,7 @@ export const TSHIRT = [
     },
     {
         id: 11,
-        imgUrl: "../assets/images/00012_fashion_image",
+        imgUrl: "../assets/images/00012_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -99,7 +99,7 @@ export const TSHIRT = [
     },
     {
         id: 12,
-        imgUrl: "../assets/images/00013_fashion_image",
+        imgUrl: "../assets/images/00013_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -107,7 +107,7 @@ export const TSHIRT = [
     },
     {
         id: 13,
-        imgUrl: "../assets/images/00014_fashion_image",
+        imgUrl: "../assets/images/00014_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Round Neck", 
@@ -115,7 +115,7 @@ export const TSHIRT = [
     },
     {
         id: 14,
-        imgUrl: "../assets/images/00015_fashion_image",
+        imgUrl: "../assets/images/00015_fashion_image.jpg",
         price: "24.99$",
         title: "Shirt",
         type: "Rou", 
